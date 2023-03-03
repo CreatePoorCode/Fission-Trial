@@ -1,2 +1,2 @@
-# fission-trial
+# Fission-Trial
 Powder Toy Mod
